@@ -1,0 +1,3 @@
+// Check whether a person is eligible to vote
+//let age = 20;
+
