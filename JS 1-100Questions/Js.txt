@@ -1,0 +1,4 @@
+//JavaScript 1-100 practice questions challenge.
+//East-Medium-Hard
+
+//Topic: Variables, data types, & Basic operations.
