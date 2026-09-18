@@ -1,0 +1,1 @@
+//Count how many numbers between 1 and 100 are divisible by 7.

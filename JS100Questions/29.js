@@ -1,0 +1,1 @@
+//create a function greet() that prints: Hello Javascript
