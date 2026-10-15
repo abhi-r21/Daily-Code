@@ -22,4 +22,4 @@ print(status)
 
 print("Weather is Hot" if temp > 20 else "Weather is cold")
 
-print("You can get full access" if user_role == "admin" else "You will get limited access only")
+print("You can get full access" if user_role == "admin" else "You will get limited access only") 
