@@ -20,6 +20,7 @@ class Dog(Animal):
 class Cat(Animal):
   def speak(self):
     print("MEOW MEOW!")
+    
 class Duck(Animal):
   def speak(self):
     print("QWAK QWAK")
