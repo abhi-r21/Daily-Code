@@ -1,0 +1,1 @@
+//Question: Return different responses for GET and POST.
